@@ -1,4 +1,4 @@
-# 👋 Dimitar Stoyanov - Mechanical engineer rediscovering my passion for software engineering
+# 👋 Dimitar Stoyanov - Mechanical Engineer Rediscovering My Passion For Software Engineering
 
 ## 🚀 Mechanical Engineer | 💻 Passionate Coder | 🔄 Returning to My Software Roots
 
