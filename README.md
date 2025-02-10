@@ -8,4 +8,9 @@ After spending several years building a strong foundation in mechanical engineer
 I’m currently exploring:  
 - **Backend Development**: Java, Spring Boot, REST APIs, SQL  
 - **Frontend Development**: JavaScript, React, HTML, CSS  
-- **Full-Stack Concepts**: Connecting backend and frontend efficiently 
+- **Full-Stack Concepts**: Connecting backend and frontend efficiently
+
+## 🎯 My Goals  
+- Build hands-on projects to strengthen my **full-stack skills**  
+- Contribute to **open-source** and collaborate with other developers  
+- Learn best practices for **scalable and maintainable** applications
