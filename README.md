@@ -14,3 +14,17 @@ I’m currently exploring:
 - Build hands-on projects to strengthen my **full-stack skills**  
 - Contribute to **open-source** and collaborate with other developers  
 - Learn best practices for **scalable and maintainable** applications
+
+### 📫 Connect with Me  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dimitar-stoyanov-26a492243)  
+- **Email**: dimitar.stoyanov2305@gmail.com  
+
+I’m always open to learning, collaboration, and new opportunities. Let’s grow together!
+
+## 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimitar-st-stoyanov&show_icons=true&theme=radical)  
+
+## 🔥 Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-st-stoyanov&layout=compact&theme=radical)  
