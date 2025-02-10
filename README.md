@@ -16,8 +16,8 @@ I’m currently exploring:
 - Learn best practices for **scalable and maintainable** applications
 
 ### 📫 Connect with Me  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dimitar-stoyanov-26a492243)  
-- **Email**: dimitar.stoyanov2305@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-stoyanov-26a492243)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimitar.stoyanov2305@gmail.com)
 
 I’m always open to learning, collaboration, and new opportunities. Let’s grow together!
 
